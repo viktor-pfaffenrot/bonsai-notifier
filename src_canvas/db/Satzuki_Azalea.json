@@ -1,0 +1,24 @@
+{
+    "Repot": [
+        "clean off compacted Kanuma surface",
+        "remove black pockets inside the root system",
+        "take care of the shin (make sure it gets water)",
+        "wash the trunk with a soft brush",
+        "replace Kanuma when is has a 3-6 mm particle size"
+    ],
+    "Pruning": [
+        "early spring (before growth) -> few strong shoots",
+        "middle spring (buds show fleshy green) -> larger number of finer twigs",
+        "late spring (leave mass produced) -> a lot of tiny weak shoots"
+    ],
+    "Wiring": [
+        "brittle"
+    ],
+    "Temperature": [
+        "Needs full sun in spring and fall to produce tight flower buds",
+        "tolerates 37/32 deg C with high/low humidity, however",
+        "protect from full sun if T > 29 deg C",
+        "tolerates minor frosts up to T = -2 deg C",
+        "If T<-2 deg C, protect from cold"
+    ]
+}

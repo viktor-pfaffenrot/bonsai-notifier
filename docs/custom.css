@@ -1,0 +1,12 @@
+/* Full-justify paragraphs in docstrings */
+.rst-content p {
+    text-align: justify;
+}
+
+.hyphenate {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  word-wrap: normal;
+}
