@@ -10,10 +10,10 @@
   <p align="center">
     This small GUI manages the dates of typical bonsai maintenance actions and displays some basic infos.
     <br />
-    The app is compiled for Linux using pyinstaller and can be found in <a href="https://github.com/vipfa100/bonsai-notifier/blob/main/dist/bonsai_notifier_Linux/">here</a>. 
+    The app is compiled for Linux using pyinstaller and can be found in <a href="https://github.com/viktor-pfaffenrot/bonsai-notifier/blob/main/dist/bonsai_notifier_Linux/">here</a>. 
     Please download the entire folder 'bonsai_notifier_Linux'.
     <br />
-    <a href="https://rawcdn.githack.com/vipfa100/bonsai-notifier/4edd5cb82604f5b4e7988255223e03d447c97b6e/docs/_build/html/bonsai_notifier.html"><strong>Documentation</strong></a>
+    <a href="https://raw.githack.com/viktor-pfaffenrot/bonsai-notifier/main/docs/_build/html/bonsai_notifier.html"><strong>Documentation</strong></a>
     <br />
     <br />
   </p>
